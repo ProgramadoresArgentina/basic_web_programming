@@ -1,23 +1,26 @@
 /* ********** CUSTOM RPOPERTIES  ********** */
 :root {
-  --first-color: #d90062;
-  --first-alpha-color: rgba(217 0 98 75%);
-  --second-color: #14192d;
-  --second-alpha-color: rgba(20 25 45 75%);
-  --third-color: #501464;
-  --third-alpha-color: rgba(80 20 100 75%);
-  --white-color: #fff;
-  --gray-light-color: #f3f3f3;
-  --gray-color: #ccc;
-  --gray-dark-color: #666;
-  --black-color: #000;
-  --link-color: #509ee3;
-  --title-color: #333;
-  --text-color: #222;
-  --white-alpha-color: rgba(255 255 255 5%);
-  --black-alpha-color: rgba(0 0 0 5%);
-  --font: sans-serif;
-  --max-width: 1200px;
+  --bg-navbar-color: #dc3545;
+  --bg-ribbon-color: #db1a1a;
+  --attention-ribbon-color: #ae1717;
+  --primary-font-ribbon-color: #febc08;
+  --secondary-font-ribbon-color: #f8f9fa;
+  --bg-divisor-ribbon-color: #ffc107;
+  --bg-games-color: #63c4ff;
+  --bg-card-games-color: #fff;
+  --title-games-color: #212529;
+  --title-games-footer-color: #0d6efd;
+  --text-shadow-color: 0 3px 3px rgb(0 0 0 / 60%);
+  --bg-text-ambios-color: #1c5d2d;
+  --bg-text-button-color: #e0a800;
+  --bg-play-nintendo-color: #ffffde;
+  --bg-play-nintendo-card1-color: #0d6efd;
+  --bg-play-nintendo-card2-color: #ffc107;
+  --bg-play-nintendo-card3-color: #28a745;
+  --bg-play-nintendo-card4-color: #dc3545;
+  --bg-footer-color: #e39a2d;
+  --font: 'Poppins', sans-serif;
+  --min-width: 800px;
   --header-height: 4rem;
 }
 
