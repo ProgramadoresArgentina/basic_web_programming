@@ -1,0 +1,17 @@
+{
+  "name": "proyecto_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint:styles": "stylelint styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint": "14.8.5",
+    "stylelint-config-standard": "25.0.0",
+    "stylelint-order": "5.0.0"
+  }
+}
