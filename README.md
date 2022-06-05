@@ -1,36 +1,32 @@
-
 # Basic Web Programing -Programadores Argentina
-
-
-
 
 ## Requerimientos
 
-  1) -Tener instalado Node Js
-  2) -Tener instalado Git
-  3) -Tener instalado Visual Studio Code
-  4) -Conocimientos basicos de Git
-  5) -Conocimientos de Conventional Commits
-  6) -Conocimientos de HTML5
-  7) -Conocimientos en CSS3
-  8) -Cuenta en GitHub
-  9) -Estar en el grupo de Discord
-  10) -Instalar Live Server (Extensión de VS Code)
-  11) -Utilizar Metodologia BEM
+1. -Tener instalado Node Js
+2. -Tener instalado Git
+3. -Tener instalado Visual Studio Code
+4. -Conocimientos basicos de Git
+5. -Conocimientos de Conventional Commits
+6. -Conocimientos de HTML5
+7. -Conocimientos en CSS3
+8. -Cuenta en GitHub
+9. -Estar en el grupo de Discord
+10. -Instalar Live Server (Extensión de VS Code)
+11. -Utilizar Metodologia BEM
 
-    
-## Inicializar proyecto 
-
+## Inicializar proyecto
 
 Instalacion de dependencias
+
 ```bash
   npm install
 ```
+
 Arrancar proyecto con Live Server.
+
 ```bash
   Port: 5500
 ```
-
 
 ## Lectura Adicional
 
